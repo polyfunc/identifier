@@ -1,0 +1,24 @@
+{
+  "name": "identifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyfunc/identifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polyfunc/identifier/issues"
+  },
+  "homepage": "https://github.com/polyfunc/identifier#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "universal-url": "^1.0.0",
+    "url-join": "^4.0.0"
+  }
+}
